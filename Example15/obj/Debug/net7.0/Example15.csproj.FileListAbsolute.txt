@@ -1,0 +1,15 @@
+C:\Users\mksn0\Desktop\Второе дз\Example15\bin\Debug\net7.0\Example15.exe
+C:\Users\mksn0\Desktop\Второе дз\Example15\bin\Debug\net7.0\Example15.deps.json
+C:\Users\mksn0\Desktop\Второе дз\Example15\bin\Debug\net7.0\Example15.runtimeconfig.json
+C:\Users\mksn0\Desktop\Второе дз\Example15\bin\Debug\net7.0\Example15.dll
+C:\Users\mksn0\Desktop\Второе дз\Example15\bin\Debug\net7.0\Example15.pdb
+C:\Users\mksn0\Desktop\Второе дз\Example15\obj\Debug\net7.0\Example15.csproj.AssemblyReference.cache
+C:\Users\mksn0\Desktop\Второе дз\Example15\obj\Debug\net7.0\Example15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mksn0\Desktop\Второе дз\Example15\obj\Debug\net7.0\Example15.AssemblyInfoInputs.cache
+C:\Users\mksn0\Desktop\Второе дз\Example15\obj\Debug\net7.0\Example15.AssemblyInfo.cs
+C:\Users\mksn0\Desktop\Второе дз\Example15\obj\Debug\net7.0\Example15.csproj.CoreCompileInputs.cache
+C:\Users\mksn0\Desktop\Второе дз\Example15\obj\Debug\net7.0\Example15.dll
+C:\Users\mksn0\Desktop\Второе дз\Example15\obj\Debug\net7.0\refint\Example15.dll
+C:\Users\mksn0\Desktop\Второе дз\Example15\obj\Debug\net7.0\Example15.pdb
+C:\Users\mksn0\Desktop\Второе дз\Example15\obj\Debug\net7.0\Example15.genruntimeconfig.cache
+C:\Users\mksn0\Desktop\Второе дз\Example15\obj\Debug\net7.0\ref\Example15.dll
